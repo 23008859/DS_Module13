@@ -1,5 +1,5 @@
 # EX1(c) Implementation of Tower of Hanoi
-## DATE:26/2/25
+## DATE:24/2/25
 ## AIM:
 To write a C program to implement Tower of Hanoi
 
@@ -16,7 +16,7 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: ROSHINI S
+Developed by: ROSHINI S 
 RegisterNumber: 212223230174
 */
 #include<stdio.h>
